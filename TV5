@@ -29,3 +29,9 @@ https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfnXfoRacVrQ42X6V8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iM8sC4v.png" group-title="MALAYSIA",Drama Sangat
 https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0kHG9nLBam8XsiIK5szvNwo)/dm/3/x6zvnex/s/live-4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="Kids/Animation",Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANIPlus.id.png" group-title="Kids/Animation",AniPlus
+http://45.126.83.51/dr9445/h/h02/01.m3u8
