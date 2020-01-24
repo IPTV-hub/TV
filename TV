@@ -235,5 +235,88 @@ http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
 #EXTINF:-1 group-title="KOREA",KBS World
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1579858105/ei/WWQqXt_MDorD1Aaq6ZOAAg/ip/39.109.173.157/id/4gwqZYZ-OSw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r2---sn-nu5gi0c-npoe7.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/sg/vprv/1/playlist_type/DVR/initcwndbps/20430/mm/44/mn/sn-nu5gi0c-npoe7/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/18/dover/11/keepalive/yes/fexp/23842630/mt/1579836440/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/ALgxI2wwRQIhAKIQp6VtCaXP-8F-1_PTfG6CrD2knia9O_gOasmBewjzAiB225UtYrTz1Y_dWQhqfU4ShYoF4zizL4ASJFJJkPwZMg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AHylml4wRAIgO8DiZs9xZy-c5rKHHjD7e0SaBEdMVkeuqGlNR61e69wCIAG7dec7IlATeaWOEKNITn_MuaS1lbIlkd88dYtYDEf4/playlist/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
+http://iptv.hayat-isp.net:1997/bein-sport1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
+http://iptv.hayat-isp.net:1997/bein-sport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
+http://iptv.hayat-isp.net:1997/bein-sport3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="Sports",beIN Sports 4
+http://iptv.hayat-isp.net:1997/bein-sport4HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports5.qa.png" group-title="Sports",beIN Sports 5
+http://iptv.hayat-isp.net:1997/bein-sport5HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports6.qa.png" group-title="Sports",beIN Sports 6
+http://iptv.hayat-isp.net:1997/bein-sport6HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports7.qa.png" group-title="Sports",beIN Sports 7
+http://iptv.hayat-isp.net:1997/bein-sport7HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports8.qa.png" group-title="Sports",beIN Sports 8
+http://iptv.hayat-isp.net:1997/bein-sport8HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports9.qa.png" group-title="Sports",beIN Sports 9
+http://iptv.hayat-isp.net:1997/bein-sport9HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="Sports",beIN Sports 10
+http://iptv.hayat-isp.net:1997/bein-sport10HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
+http://iptv.hayat-isp.net:1997/bein-sport11HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports12.qa.png" group-title="Sports",beIN Sports 12
+http://iptv.hayat-isp.net:1997/bein-sport12HD/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
+https://cstream5.com/hls/btsport1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
+https://cstream5.com/hls/btsport2.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5 体育频道
+http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+ 体育赛事
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongSports.cn.png" group-title="Sports",广东体育
+https://116.77.72.195/streams/d/gdty/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
+https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Asia
+https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 Asia
+https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Brasil
+http://198.255.23.18:2095/streams/56_.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Brasil
+http://198.255.23.18:2095/streams/57_.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cision-wp-files/us/wp-content/uploads/2016/10/20090610/FOX-Sports-1.jpg" group-title="Sports",Fox Sports 1 US
+http://live.fadev.club/live/FS1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN.nz.png" group-title="Sports",ESPN
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN2.nz.png" group-title="Sports",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNNews.us.png" group-title="Sports",ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sports",Eurosport 1
+http://5.135.92.133:52841/out/u/511_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Sports",Eurosport 2
+https://cstream5.com/hls/eurosport2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="Sports",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="Sports",Sony Ten 1
+https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="Sports",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv.br.png" group-title="Sports",SporTV
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv2.br.png" group-title="Sports",SporTV 2
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/SporTV_3_logo_2016.png" group-title="Sports",SporTV 3
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
+https://cstream5.com/hls/skysportsaction.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sports Arena
+https://cstream5.com/hls/skysportsarena.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ESPN_logo.svg.png" group-title="American Sports",ACC Network
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNU.us.png" group-title="American Sports",ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/220px-NBC_Sports_2012.svg.png" group-title="American Sports",NBC Sports
+http://live.fadev.club/live/NBCSN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="Entertainment",AXN
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
