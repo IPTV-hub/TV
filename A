@@ -28,19 +28,19 @@ https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0kHG9nLBam8XsiIK5s
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="Singapore/Malaysia",8TV 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="",HITS
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="SINGAPORE",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="",KIX
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="SINGAPORE",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="Kids/Animation",Animax
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="Animation",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANIPlus.id.png" group-title="Kids/Animation",AniPlus
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANIPlus.id.png" group-title="Animation",AniPlus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="USA",Red Bull TV (UHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Redbull",Red Bull TV (UHD)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="UK",beIN Sports Xtra
