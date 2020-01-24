@@ -154,8 +154,14 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sEJLkYY.png" group-title="MALAYSIA",TV2
 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEJLkYY.png" group-title="MALAYSIA",TV9
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfnXfoRacVrQ42X6V8ATNfc)/dm/3/x6qqja6/s/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iM8sC4v.png" group-title="MALAYSIA",Drama Sangat
+https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0kHG9nLBam8XsiIK5szvNwo)/dm/3/x6zvnex/s/live-4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="THAILAND",Fox Sports (New!)
 http://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ggjJiDw.png" group-title="24/7 MANDARIN",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24/7 MANDARIN",24/7 Marvel Movies
@@ -184,6 +190,7 @@ http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 9
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iM8sC4v.png" group-title="SINGAPORE",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yuh4jV.png" group-title="SINGAPORE",Channel 8
@@ -192,6 +199,7 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTdI1KE.png" group-title="SINGAPORE",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="24/7 PLUTO TV",Movies 1
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="MOVIE",KIX HD
@@ -224,7 +232,8 @@ http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
 #EXTINF:-1 group-title="SPORT",BEIN SPORT3
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
 
-
+#EXTINF:-1 group-title="KOREA",KBS World
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1579858105/ei/WWQqXt_MDorD1Aaq6ZOAAg/ip/39.109.173.157/id/4gwqZYZ-OSw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r2---sn-nu5gi0c-npoe7.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/sg/vprv/1/playlist_type/DVR/initcwndbps/20430/mm/44/mn/sn-nu5gi0c-npoe7/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/18/dover/11/keepalive/yes/fexp/23842630/mt/1579836440/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/ALgxI2wwRQIhAKIQp6VtCaXP-8F-1_PTfG6CrD2knia9O_gOasmBewjzAiB225UtYrTz1Y_dWQhqfU4ShYoF4zizL4ASJFJJkPwZMg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AHylml4wRAIgO8DiZs9xZy-c5rKHHjD7e0SaBEdMVkeuqGlNR61e69wCIAG7dec7IlATeaWOEKNITn_MuaS1lbIlkd88dYtYDEf4/playlist/index.m3u8
 
 
 
