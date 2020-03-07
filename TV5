@@ -27,10 +27,10 @@ https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0r1aJNt23ZFDiIOKox
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="Singapore/Malaysia",8TV 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="HITS"
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="Singapore/Malaysia",HITS
 http://210.210.155.66/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="KIX"
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title=Singapore/Malaysia",KIX
 http://210.210.155.66/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="Kids/Animation",Animax
@@ -39,7 +39,7 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANIPlus.id.png" group-title="Kids/Animation",AniPlus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="K+"
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title=Singapore/Malaysia",K+
 http://210.210.155.66/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/sonysetone_logo.png" group-title="Singapore/Malaysia",Sony One
