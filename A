@@ -58,12 +58,6 @@ http://45.58.62.92:808
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="MALAYSIA",8TV 
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfGtsIYu1uip9vTc_CHAVfQ)/dm/3/x6qud17/s/live-4.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="SINGAPORE",HITS
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="SINGAPORE",KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="Animation",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
