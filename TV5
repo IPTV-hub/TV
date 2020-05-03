@@ -27,10 +27,10 @@ https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0r1aJNt23ZFDiIOKox
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="MALAYSIA",8TV 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="Singapore",HITS
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="SINGAPORE",HITS
 http://210.210.155.66/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="Singapore",KIX
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="SINGAPORE",KIX
 http://210.210.155.66/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="Animation",Animax
@@ -39,13 +39,13 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANIPlus.id.png" group-title="Animation",AniPlus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="Singapore",K+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="SINGAPORE",K+
 http://210.210.155.66/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/sonysetone_logo.png" group-title="Singapore",Sony One
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/sonysetone_logo.png" group-title="SINGAPORE",Sony One
 http://210.210.155.66/h/h143/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="Singapore",Sony Gem
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="SINGAPORE",Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ggjJiDw.png" group-title="24/7",24/7 Friends
@@ -54,8 +54,8 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0zs0ST.png" group-title="24/7",24/7 The Big Bang Theory
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="UK",Fox Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="SPORTS",Fox Sports
 http://45.58.62.92:8080
 
-#EXTINF:-1 group-title="MOVIE",WAKU WAKU JAPAN
+#EXTINF:-1 group-title="SINGAPORE",WAKU WAKU JAPAN
 http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
