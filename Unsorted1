@@ -1059,8 +1059,6 @@ http://maxptv.net:8080/live/morgana/morgana/3070.m3u8
 http://maxptv.net:8080/live/morgana/morgana/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Telecine Touch SD
 http://maxptv.net:8080/live/morgana/morgana/24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",The Backyardigans 24H
-http://maxptv.net:8080/live/morgana/morgana/55.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",The Big Bang Theory 24H
 http://maxptv.net:8080/live/morgana/morgana/543.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",THE HISTORY CHANNEL FULL HD
