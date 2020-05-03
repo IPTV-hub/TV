@@ -60,3 +60,6 @@ http://45.58.62.92:8080
 #EXTINF:-1 group-title="MOVIE",WAKU WAKU JAPAN
 http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TLC HD
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
