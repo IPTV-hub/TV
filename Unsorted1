@@ -1826,60 +1826,7 @@ https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="",Carolina Tv HD
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3788384_logo_radio_zeta.png" group-title="",RadioZeta
-https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="",AE Radio Tv
-http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.chileiptv.cl/img/logos/file_1521688260.jpg" group-title="",Genial Tv
-http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701153311.jpg" group-title="",Sinfonia TV
-https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://tv-online.cl/bio-bio-chile-tv-la-radio-bbtv-en-vivo.jpg?190418055241" group-title="",Radio BioBio Tv
-https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://iptvchile.xyz/Logos/TeVe/mqdefault_zpsdijxexti.jpg" group-title="",Radio La Clave Tv
-http://unlimited5-cl.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://iptvchile.xyz/Logos/TeVe/Tele13_Radio_zpspn4m8raf.png" group-title="",Tele13 Radio Tv
-https://t13-radio-live.cdn.nedmedia.io/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="",TeleAngol Radio
-https://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="",En la Noticia
-http://hd.chileservidores.cl:8080/reseller/chiloe3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.radiohoy.cl/wp-content/uploads/2019/01/RadioHoy-Logo-Small.png" group-title="",Radio HOY
-https://593b04c4c5670.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.pauta.cl/pauta/site/artic/20180307/imag/foto_0000000420180307152149/logo2.png" group-title="",Pauta HD
-http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701156801.png" group-title="",INTERRADIOTV
-https://5cf4a2c2512a2.streamlock.net:443/interradiofrutillar/interradiofrutillar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static-co.radio.net/images/broadcasts/c4/32/10868/c300.png" group-title="",Radio Belllaemonella Tv
-https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvdaldia.com/wp-content/uploads/2018/01/puertanorte1.png" group-title="",Puerta Norte
-https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://enfoquedigital.cl/wp-content/uploads/2018/08/LOGO-EDTV.png" group-title="",ED Enfoque Digital Atacama
-http://streaminglivehd.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://iptvchile.xyz/Logos/TeVe/cap_zpsaosigst3.png" group-title="",Cappissima Multimedial Arica
-http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.chileiptv.cl/img/logos/file_1487255043.png" group-title="",Antofagasta Tv Antofagasta
-https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.webme.com/pic/t/tv2choapa/10001.png" group-title="",Choapa Tv
-http://unlimited2-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="",VTV Valle de Aconcagua
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="",VTV Valle de Aconcagua
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.thematelevision.cl/wp-content/uploads/2016/02/LOGO1.png" group-title="",Thema La Serena
-https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="",VTV Vina - Valparaiso HD
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.freeetv.com/images/03_logo/tv_5_linear_chile.png" group-title="",Canal 5 Linares
-http://unlimited2-cl.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="",Gracia Tv
-http://v3.tustreaming.cl/graciatv/live1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://sitios.upla.cl/contenidos/wp-content/uploads/2010/06/logo-canal-tv-2.jpg" group-title="",UES TV
-http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://lh3.googleusercontent.com/-DbKsidqGy6I/XlKnYHZVp9I/AAAAAAAAwY0/qY5Kav43ib8cqnDSANRGHj9y5CaF7JqtQCK8BGAsYHg/s0/2020-02-23.png" group-title="",VoxPopuli Chile
-https://unlimited10-cl.dps.live/vox/vox.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://lh3.googleusercontent.com/-J08Zxjh1sxs/Xig7pBsDHWI/AAAAAAAAvXY/M-atDfDj6zIuWnnVdiD42zIo2Jq1NR1UQCK8BGAsYHg/s0/2020-01-22.png" group-title="",TU Canal TV Colina
-http://hd.chileservidores.cl:8080/colina/colina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png" group-title="",HiperTV
+="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png" group-title="",HiperTV
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.rodeoenvivo.cl/portal/wp-content/uploads/2016/05/BANNER_CAMPO_ABIERTO_TV.png" group-title="",Campo Abierto TV  Huechuraba
 http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
