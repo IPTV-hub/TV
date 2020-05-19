@@ -57,5 +57,5 @@ https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="SPORTS",Fox Sports
 http://45.58.62.92:8080
 
-#EXTINF:-1 group-title="SINGAPORE",WAKU WAKU JAPAN
-http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="SINGAPORE",WakuWaku Japan
+https://vcdnjt.useetv.com:443/joss/15/wakuwaku/chunklist_w161308538_b684100_sleng_177560.m3u8?enc=T-x7_Q3IIEo9s4FevYCnsQ&exp=1587470284
