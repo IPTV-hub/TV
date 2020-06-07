@@ -1927,46 +1927,9 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="",CubaVision (Cuba)
 http://190.122.96.187:8888/http/010
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Telearuba_Logo.png" group-title="",TeleAruba
-http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png" group-title="",Next (Panamá)
-http://198.1.117.5:1935/live/livestream/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/ewpAI0R.png" group-title="",Canal 2 (Nicaragua)
-http://162.244.81.181:1935/live/Stream1/chunklist_w192269669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/TRIBUNA-TV-253x194.jpg" group-title="",TribunaTV (San Salvador)
-https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/ELIM-TV.png" group-title="",ElimTV (San Salvador)
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png" group-title="",TVX (El Salvador)
-http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.tele1.sv/wp-content/uploads/2019/06/ipad-app-2-1024x732-689x492.png" group-title="",Tele1 (El Salvador)
-https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/chunklist_w1614286216_b1428000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cn247.tv/img/logo.png" group-title="",CN247 (Uruguay)
-https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://4.bp.blogspot.com/-sNq8hlRQoDM/XKdEL6nT9tI/AAAAAAAAiXk/5iEAvzj834UBv0fS2dp6ZgyicarDNW9aQCK4BGAYYCw/s1600/misioneltvlogo.jpg" group-title="",Mision ELTV Radio (RD)
-http://stream.zenolive.com/492ru4zwh4duv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-rijz_M9Mfjg/XodzU4USyHI/AAAAAAAAAkQ/86J2L7EgOvw71sXXbTH5_cAKf9CgXEnEwCLcBGAsYHQ/s320/UrbancrisTV.png" group-title="",UrbanCrist.net (RD)
-http://stream.zeno.fm/gye6qk5ztmzuv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-UJ70RZMckk0/XmLtstGG0KI/AAAAAAAAr80/cOZtvfDIC4spSXVoZvnrhXhXLaf0M-XzQCLcBGAsYHQ/s1600/ElBachaRengue.Net.jpeg" group-title="",ElBachaRengue.Net Opt. 1 (RD)
-https://usa3.lhdserver.es:8013/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-UJ70RZMckk0/XmLtstGG0KI/AAAAAAAAr80/cOZtvfDIC4spSXVoZvnrhXhXLaf0M-XzQCLcBGAsYHQ/s1600/ElBachaRengue.Net.jpeg" group-title="",ElBachaRengue.Net  Opt. 2 (RD)
-http://195.154.33.87:9998/
-#EXTINF:-1 tvg-id="" tvg-name="The Box FM" tvg-language="" tvg-logo="https://graph.facebook.com/boxfmec/picture?width=320&height=320" group-title="",The Box FM
-http://listen128.radionomy.com/thebox
-#EXTINF:-1 tvg-id="" tvg-name="Cachipum TV" tvg-language="" tvg-logo="https://graph.facebook.com/cachipumtv/picture?width=320&height=320" group-title="",Cachipum TV
-http://23.236.180.26/11580409776/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-an2spMn0bbA/Xl1-0qQ5boI/AAAAAAAAr5A/9OzpigBzyqYqyiJFTnxH_O46s9GH5oFTACLcBGAsYHQ/s320/Dios%2BTe%2BVe%2BKids.jpg" group-title="",DTV Kids (Infantil)
-https://reproductor.latin.mx/latin/Dios/chunklist_w1996534402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" group-title="",Pequeradio
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png" group-title="",Pakapaka (Argentina)
-https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Kids" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/kids-1080-1024x614.png" group-title="",HqM Kids
-https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-fkhuA1ixGt8/XkIpIcPLQEI/AAAAAAAAqqA/ocyvOR-Wx0Et5iT1_KWRFDNsEhcELanTwCLcBGAsYHQ/s200/higueykids%2Blogo.png" group-title="",Higuey Kids (Infantil)
-https://usb1.ninacdn.com/ssh101/HigueyKidsLives/HigueyKidsLives/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Locomotion TV" tvg-language="" tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=320&height=320" group-title="",Locomotion TV
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.winudf.com/v2/image1/aW5mby50dmdvc3BlbGNhcnRvb24xLnRlY2hfc2NyZWVuXzJfMTU1NzMyMzg2OV8wODM/screen-2.jpg?fakeurl=1&type=.jpg" group-title="",Gospel Cartoon (Kids)
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="",Boomerang (Kids)
