@@ -642,8 +642,8 @@ http://maxptv.net:8080/live/morgana/morgana/202.m3u8
 http://maxptv.net:8080/live/morgana/morgana/3036.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",ANIMAL PLANET FULL HD H265
 http://maxptv.net:8080/live/morgana/morgana/3037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Chaves 24H
-http://maxptv.net:8080/live/morgana/morgana/547.m3u8
+----
+---
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Cine Action 24H Ultra HD
 http://maxptv.net:8080/live/morgana/morgana/54.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Cine Aventura 24H Ultra HD
@@ -828,12 +828,8 @@ http://maxptv.net:8080/live/morgana/morgana/566.m3u8
 http://maxptv.net:8080/live/morgana/morgana/121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",ID SD
 http://maxptv.net:8080/live/morgana/morgana/120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Jaspion 24H
-http://maxptv.net:8080/live/morgana/morgana/570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Jiraya  O Incrivel Ninja 24H
-http://maxptv.net:8080/live/morgana/morgana/1475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Larva 24H
-http://maxptv.net:8080/live/morgana/morgana/1474.m3u8
+---
+----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Lifetime HD
 http://maxptv.net:8080/live/morgana/morgana/522.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Lion Man 24H
