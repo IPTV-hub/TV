@@ -575,7 +575,8 @@ http://78.109.108.62:2001/protv
 http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Kiss tv
 http://46.20.136.59/live3/_definst_/kiss/playlist.m3u8
-
+-
+-
 -----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",AMC HD
 http://maxptv.net:8080/live/morgana/morgana/512.m3u8
@@ -1895,8 +1896,9 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgra
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8?
 #EXTINF:-1 tvg-id="CanalesdelpuebloIPTV" tvg-name="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/BHdyO2kaGJk/maxresdefault.jpg" group-title="",NTN24
 https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8?
-
-
+---
+----
+----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="",France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.newslinereport.com/online/nota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg" group-title="",DW Latino (Alemania)
@@ -1925,9 +1927,9 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="",CubaVision (Cuba)
 http://190.122.96.187:8888/http/010
-
-
-
+----
+-----
+----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.winudf.com/v2/image1/aW5mby50dmdvc3BlbGNhcnRvb24xLnRlY2hfc2NyZWVuXzJfMTU1NzMyMzg2OV8wODM/screen-2.jpg?fakeurl=1&type=.jpg" group-title="",Gospel Cartoon (Kids)
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="",Boomerang (Kids)
@@ -3764,7 +3766,8 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://zeebanglacinema.com/wp-content/uploads/2017/01/Zee-Bangla-Cinema-orange-logo.png" group-title="India",Zee বাংল  সিনেমা
 http://103.205.133.42:1935/local/zee_bangla_cinema_720/chunklist.m3u8
-
+----
+-
 ----
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="Asia",翡翠台
 http://61.238.6.49:8000/bysid/1
