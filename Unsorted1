@@ -2341,75 +2341,9 @@ http://66.175.238.147:1935/live/myStream/chunklist_w1749202216.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i1.sndcdn.com/avatars-000323926984-181dhl-t500x500.jpg" group-title="",Lumiere (Haiti)
 http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_lumi/as/live/hln_lumi_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/DvOtC0S.png" group-title="",Suyapa TV (Honduras)
-http://173.236.71.62:1935/canal48/c48.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.giniko.com/logos/190x110/966.png" group-title="Music",CA Music (Music)
-https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Music",Latinos Up! TV (Music)
-https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w225072622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Music",Guitar Relax (Music)
-https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Music",m2o TV (Music)
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://3.bp.blogspot.com/-en8hZg-ydAg/XhM37CW34WI/AAAAAAAApbY/kkIzMk9g_IM8m0Mzn-DLoM-Bu4JKlaUawCLcBGAsYHQ/s320/Telemusica.png" group-title="Music",Telemusica (Music)
-http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Music",The Box
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 tvg-id="" tvg-name="EuroLatina TV" tvg-language="" tvg-logo="https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320" group-title="Music",EuroLatina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Spanish" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/spanish-1080-1024x614.png" group-title="Music",HqM Spanish
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Rock" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/rock-1080-1024x614.png" group-title="Music",HqM Rock
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Remember" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/remember-1080-1024x614.png" group-title="Music",HqM Remember
-https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Relax" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/relax-1080-1024x614.png" group-title="Music",HqM Relax
-https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Pop" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/pop-1080-1024x614.png" group-title="Music",HqM Pop
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Latin" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/latin-1080-1024x614.png" group-title="Music",HqM Latin
-https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Jazz" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/jazz-1080-1024x614.png" group-title="Music",HqM Jazz
-https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Hip Hop" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/hiphop-1080-1024x614.png" group-title="Music",HqM Hip Hop
-https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Folk" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/folk-1080-1024x614.png" group-title="Music",HqM Folk
-https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Dance" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/dance-1080-1024x614.png" group-title="Music",HqM Dance
-https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Classic" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/classic-1080-1024x614.png" group-title="Music",HqM Classic
-https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Chill Out" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/chill-out-1080-1024x614.png" group-title="Music",HqM Chill Out
-https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Blues" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/blues-1080-1024x614.png" group-title="Music",HqM Blues
-https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Baladas" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/baladas-1080-1024x614.png" group-title="Music",HqM Baladas
-https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HqM Arabic" tvg-language="" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/arabic-1080-1024x614.png" group-title="Music",HqM Arabic
-https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="V2Beat TV" tvg-language="" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" group-title="Music",V2Beat TV
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DanceStar TV" tvg-language="" tvg-logo="https://graph.facebook.com/DancestarTV/picture?width=320&height=320" group-title="Music",DanceStar TV
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Music Top" tvg-language="" tvg-logo="https://graph.facebook.com/MusictopArgentina/picture?width=320&height=320" group-title="Music",Music Top
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Portalfoxmix" tvg-language="" tvg-logo="https://graph.facebook.com/portalfoxmixtv/picture?width=320&height=320" group-title="Music",Portalfoxmix
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Mega Mundial" tvg-language="" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" group-title="Music",La Mega Mundial
-https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rathergood Radio" tvg-language="" tvg-logo="https://graph.facebook.com/rathergoodradio/picture?width=320&height=320" group-title="Music",Rathergood Radio
-https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rathergood Dance" tvg-language="" tvg-logo="https://graph.facebook.com/rathergoodradio/picture?width=320&height=320" group-title="Music",Rathergood Dance
-https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergooddance.m3u8?chname=kapanglivetv-playout-rathergooddance&pub=69038e81-0143-4fef-be11-a73feb5d0344&ctype=0&acsurl=dropstitch06b.broadcastcdn.net
-#EXTINF:-1 tvg-id="" tvg-name="Rathergood 00s" tvg-language="" tvg-logo="https://graph.facebook.com/rathergoodradio/picture?width=320&height=320" group-title="Music",Rathergood 00s
-https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodnoughties.m3u8?chname=kapanglivetv-playout-rathergoodnoughties&pub=69038e81-0143-4fef-be11-a73feb5d0344&ctype=0&acsurl=dropstitch06b.broadcastcdn.net
-#EXTINF:-1 tvg-id="" tvg-name="Rathergood Movies" tvg-language="" tvg-logo="https://graph.facebook.com/rathergoodradio/picture?width=320&height=320" group-title="Music",Rathergood Movies
-https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodmovies.m3u8?chname=kapanglivetv-playout-rathergoodmovies&pub=69038e81-0143-4fef-be11-a73feb5d0344&ctype=0&acsurl=dropstitch06b.broadcastcdn.net
-#EXTINF:-1 tvg-id="" tvg-name="Rathergood Dance Classics" tvg-language="" tvg-logo="https://graph.facebook.com/rathergoodradio/picture?width=320&height=320" group-title="Music",Rathergood Dance Classics
-https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergooddanceclassics.m3u8?chname=kapanglivetv-playout-rathergooddanceclassics&pub=69038e81-0143-4fef-be11-a73feb5d0344&ctype=0&acsurl=dropstitch06b.broadcastcdn.net
-#EXTINF:-1 tvg-id="" tvg-name="Rathergood LoL" tvg-language="" tvg-logo="https://graph.facebook.com/rathergoodradio/picture?width=320&height=320" group-title="Music",Rathergood LoL
-https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodanimals.m3u8?chname=kapanglivetv-playout-rathergoodanimals&pub=69038e81-0143-4fef-be11-a73feb5d0344&ctype=0&acsurl=viewtv-acs-lb
-#EXTINF:-1 tvg-id="" tvg-name="Vintage Music Radio" tvg-language="" tvg-logo="https://graph.facebook.com/vintagemusicgroup/picture?width=320&height=320" group-title="Music",Vintage Music Radio
-https://streamingserver000.viewtvgroup.com/kapanglivetv-playout-vintage-musicradio/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Vintage Music TV" tvg-language="" tvg-logo="https://graph.facebook.com/vintagemusicgroup/picture?width=320&height=320" group-title="Music",Vintage Music TV
 https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-vintagemusictv.m3u8?chname=kapanglivetv-playout-vintagemusictv&pub=69038e81-0143-4fef-be11-a73feb5d0344&ctype=0&acsurl=viewtv-acs-lb
 #EXTINF:-1 tvg-id="" tvg-name="Kronehit" tvg-language="" tvg-logo="https://graph.facebook.com/kronehit/picture?width=320&height=320" group-title="Music",Kronehit
