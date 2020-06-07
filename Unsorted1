@@ -3,7 +3,6 @@
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Realitatea TV
 http://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",VISIT-X.tv
@@ -576,10 +575,8 @@ http://78.109.108.62:2001/protv
 http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Kiss tv
 http://46.20.136.59/live3/_definst_/kiss/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",A&E HD
-http://maxptv.net:8080/live/morgana/morgana/236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",A&E SD
-http://maxptv.net:8080/live/morgana/morgana/235.m3u8
+
+-----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",AMC HD
 http://maxptv.net:8080/live/morgana/morgana/512.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",AMC SD
