@@ -15,6 +15,9 @@ https://www.mewatch.sg/en/channels/suria/237652
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
 
+#EXTINF:0 tvg-logo="http://channel8andsuria.weebly.com/uploads/4/1/5/7/41571097/1598436.jpg" group-title="SG",SINGAPORE | SURIA
+https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
