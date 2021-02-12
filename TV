@@ -68,36 +68,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA",TVS Turbo (New!)
 https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="UK",Fox Sports
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XTv8pla.png" group-title="UK",Motorsport TV
-http://45.58.62.92:8084
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Og4yq8h.png" group-title="UK",Sony Movies Classic
-http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jEtKLkp.png" group-title="UK",SciFi (New!)
-http://84.22.33.254/unicast.scifi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NmxO5No.png" group-title="MYANMAR",Sky Net Sports 1 (New!)
-http://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HcszfCn.png" group-title="MYANMAR",Sky Net Sports 2 (New!)
-http://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYT1xK8.png" group-title="MYANMAR",Sky Net Sports 3 (New!)
-http://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XoCZmqe.png" group-title="MYANMAR",Sky Net Sports HD (New!)
-http://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA",Astro Awani (Opt-1)
-http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA",Astro Awani (Opt-2)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l8RiI34.png" group-title="MALAYSIA",TV1
-http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sEJLkYY.png" group-title="MALAYSIA",TV2
-http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Singapore/Malaysia",TV9 
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iM8sC4v.png" group-title="MALAYSIA",Drama Sangat
 https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0kHG9nLBam8XsiIK5szvNwo)/dm/3/x6zvnex/s/live-4.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="THAILAND",Fox Sports (New!)
 http://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
