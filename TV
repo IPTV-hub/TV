@@ -108,12 +108,6 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN2.nz.png" group-title="Sports",ESPN 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNNews.us.png" group-title="Sports",ESPN News
-https://gma2.blab.email/espnews.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sports",Eurosport 1
-http://5.135.92.133:52841/out/u/511_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Sports",Eurosport 2
-https://cstream5.com/hls/eurosport2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="Sports",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="Sports",Sony Ten 1
