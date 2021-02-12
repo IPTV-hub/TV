@@ -34,6 +34,10 @@ https://https://www.tonton.com.my/live/drama-sangat
 https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lEzCDGEKhVZy8G9dNgqMmI)/dm/3/x6zvnex/s/live-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JQ7GVR.jpg" group-title="MALAYSIA",Drama Sangat2
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MALAYSIA",DRAMA SANGAT3
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8 
+
 https://www.tonton.com.my/live/drama-sangat
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="MALAYSIA",8TV 
