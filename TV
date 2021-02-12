@@ -106,53 +106,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288
 #EXTINF:-1 group-title="ANAK",ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
-#EXTINF:-1 group-title="SPORT",BEIN SPORT1
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1 group-title="SPORT",,BEIN SPORT2
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTINF:-1 group-title="SPORT",BEIN SPORT3
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-
-#EXTINF:-1 group-title="KOREA",KBS World
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1579858105/ei/WWQqXt_MDorD1Aaq6ZOAAg/ip/39.109.173.157/id/4gwqZYZ-OSw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r2---sn-nu5gi0c-npoe7.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/sg/vprv/1/playlist_type/DVR/initcwndbps/20430/mm/44/mn/sn-nu5gi0c-npoe7/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/18/dover/11/keepalive/yes/fexp/23842630/mt/1579836440/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/ALgxI2wwRQIhAKIQp6VtCaXP-8F-1_PTfG6CrD2knia9O_gOasmBewjzAiB225UtYrTz1Y_dWQhqfU4ShYoF4zizL4ASJFJJkPwZMg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AHylml4wRAIgO8DiZs9xZy-c5rKHHjD7e0SaBEdMVkeuqGlNR61e69wCIAG7dec7IlATeaWOEKNITn_MuaS1lbIlkd88dYtYDEf4/playlist/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
-http://iptv.hayat-isp.net:1997/bein-sport1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
-http://iptv.hayat-isp.net:1997/bein-sport2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
-http://iptv.hayat-isp.net:1997/bein-sport3HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="Sports",beIN Sports 4
-http://iptv.hayat-isp.net:1997/bein-sport4HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports5.qa.png" group-title="Sports",beIN Sports 5
-http://iptv.hayat-isp.net:1997/bein-sport5HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports6.qa.png" group-title="Sports",beIN Sports 6
-http://iptv.hayat-isp.net:1997/bein-sport6HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports7.qa.png" group-title="Sports",beIN Sports 7
-http://iptv.hayat-isp.net:1997/bein-sport7HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports8.qa.png" group-title="Sports",beIN Sports 8
-http://iptv.hayat-isp.net:1997/bein-sport8HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports9.qa.png" group-title="Sports",beIN Sports 9
-http://iptv.hayat-isp.net:1997/bein-sport9HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="Sports",beIN Sports 10
-http://iptv.hayat-isp.net:1997/bein-sport10HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
-http://iptv.hayat-isp.net:1997/bein-sport11HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports12.qa.png" group-title="Sports",beIN Sports 12
-http://iptv.hayat-isp.net:1997/bein-sport12HD/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
-https://cstream5.com/hls/btsport1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
-https://cstream5.com/hls/btsport2.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5 体育频道
-http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+ 体育赛事
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongSports.cn.png" group-title="Sports",广东体育
-https://116.77.72.195/streams/d/gdty/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
 https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Asia
