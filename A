@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iM8sC4v.png" group-title="SINGAPORE",Channel 5
 https://stream-04.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NME0hcuXroV3i6PrphZwDvzQA)/dm/3/x6vbjdp/d/live-2.m3u8
+
+EXTINF:-1 tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="Local",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
