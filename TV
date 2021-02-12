@@ -57,8 +57,6 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="USA",Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07rLRZ9.png" group-title="USA",IndieWave
 https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://golikemariana.com/wp-content/uploads/2017/08/msnbc-blanco-1.png" group-title="USA",MSNBC
